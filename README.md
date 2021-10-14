@@ -1,6 +1,6 @@
 # Desafio de Projeto sobre Git/GitHub da DIO 📁
 
-Repositório criado para o Desafio de Projeto do Bootcamp [everis New Talents #2 .NET](https://web.digitalinnovation.one/track/everis-new-talents-2-net)
+Repositório criado para o Desafio: **Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso** do Bootcamp [everis New Talents #2 .NET](https://web.digitalinnovation.one/track/everis-new-talents-2-net)
 
 **‼️Pré Requisitos:**
 
